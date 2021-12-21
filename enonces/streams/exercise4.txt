@@ -1,0 +1,8 @@
+En utilisant l'API stream:
+
+Créez trois fonctions :
+- renvoi le nombre de caractères dans une chaine.
+- renvoi le nombre de caractères sans espaces dans une chaine.
+- renvoi le nombre d'espaces dans la chaine.
+
+Affichez l'ensemble.

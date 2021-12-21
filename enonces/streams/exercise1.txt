@@ -1,0 +1,6 @@
+En utilisant l'API Stream:
+
+Comptez le nombre de prénoms qui commencent par une lettre X dans une liste de prénoms.
+Récupérer la valeur dans une variable.
+
+Créez une nouvelle liste avec les prénoms filtrés et ordonnés dans le point 1, et afficher l'ensemble.

@@ -1,0 +1,4 @@
+Source of exercise:
+https://www.codingame.com/playgrounds/20782/java-guild-meeting-52018/streams---practice
+
+Starting from a list of names, give me the total number of letters in all the names with more than 5 letters.

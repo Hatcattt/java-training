@@ -1,0 +1,6 @@
+1)
+Create a list of string consisting of the first letter in uppercase, the last letter in lowercase, of each word in the list
+of strings provided.
+
+2)
+Do the same, but with a StringBuilder that contain the same elements.

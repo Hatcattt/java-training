@@ -1,0 +1,2 @@
+En utilisant l'API Stream, retourner une nouvelle liste de prénoms avec les prénoms en majuscule.
+Utilisez une méthode référence plutôt qu'une lambda.
