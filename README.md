@@ -7,6 +7,6 @@
 - [stream](src/main/java/com/hatcattt/streams) : for the Stream API, from various websites
 
 There is always a text file (things to do) for each exercise in the folder :
-- [ressources](enonces)<br>
+- [ressources](src/main/resources/enonces)<br>
 
 n.b: *Some exercises will be in French, others in English.*
